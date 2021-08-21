@@ -3,12 +3,13 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
+ - Machine Learning & Data Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 
@@ -32,6 +33,10 @@
   
   ##
   
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
  
 <div> 
@@ -40,10 +45,8 @@
  
   ![Snake animation](https://github.com/hernanijr/hernanijr/blob/output/github-contribution-grid-snake.svg)
   
-  # Todoist Stats
 
-TODO-IST:START
-TODO-IST:END
+
 
 
  
