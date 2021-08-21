@@ -50,8 +50,8 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 
 <!-- TODO-IST:START -->
 🏆  5,099 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 310 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 311 tasks so far           
 ⏳  Longest streak is 39 days
 <!-- TODO-IST:END -->
 
