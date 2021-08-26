@@ -49,8 +49,8 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  5,371 Karma Points           
-🌸  Completed 5 tasks today           
+🏆  5,388 Karma Points           
+🌸  Completed 0 tasks today           
 ✅  Completed 338 tasks so far           
 ⏳  Longest streak is 39 days
 <!-- TODO-IST:END -->
