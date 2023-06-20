@@ -55,6 +55,9 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 ⏳  Longest streak is **39** days
 <!-- TODO-IST:END -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
  
 <div> 
     
