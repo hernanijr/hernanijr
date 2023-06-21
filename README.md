@@ -56,6 +56,13 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   5 hrs 34 mins   ████████████████████████▒   97.68 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+```
+
 <!--END_SECTION:waka-->
 
  
