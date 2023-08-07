@@ -3,9 +3,8 @@
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hernanijr/)](https://github.com/hernanijr/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernanivieirajr/)](https://www.linkedin.com/in/hernanivieirajr)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hernani.junior13@gmail.com)](mailto:hernani.junior13@gmail.com)
+[![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernanivieirajr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hernani.junior13@gmail.com)](mailto:hernani.junior13@gmail.com)
 
  
 ### A little about me...  
