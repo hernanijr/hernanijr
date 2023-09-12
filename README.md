@@ -75,7 +75,7 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 09 September 2023
+From: 20 June 2023 - To: 10 September 2023
 
 Total Time: 142 hrs 7 mins
 
