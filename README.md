@@ -12,8 +12,8 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 
 - 🔭 Bachelor's degree in **Computer Science** at PUC Minas
 -   :computer: I am working as **Software Engineer**
--   :monocle_face: Interested in everything about **Data Science**
--   :seedling: Currently learning **Machine Learning**
+-   :monocle_face: Interested in everything about **Web Development**
+-   :seedling: Currently learning **Go**
 -   :heart: Open Source Software
 
 
