@@ -75,20 +75,20 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 13 February 2025
+From: 20 June 2023 - To: 15 February 2025
 
-Total Time: 746 hrs 57 mins
+Total Time: 753 hrs 48 mins
 
-TypeScript                 345 hrs 28 mins >>>>>>>>>>>>-------------   46.25 %
-JavaScript                 247 hrs 31 mins >>>>>>>>-----------------   33.14 %
-HTML                       47 hrs 47 mins  >>-----------------------   06.40 %
-Bash                       22 hrs 33 mins  >------------------------   03.02 %
-Other                      22 hrs 32 mins  >------------------------   03.02 %
-JSON                       19 hrs 50 mins  >------------------------   02.66 %
-Go                         11 hrs 30 mins  -------------------------   01.54 %
-YAML                       8 hrs 10 mins   -------------------------   01.09 %
-Markdown                   4 hrs 1 min     -------------------------   00.54 %
-SCSS                       3 hrs 56 mins   -------------------------   00.53 %
+TypeScript                 351 hrs 27 mins >>>>>>>>>>>>-------------   46.62 %
+JavaScript                 247 hrs 35 mins >>>>>>>>-----------------   32.85 %
+HTML                       47 hrs 50 mins  >>-----------------------   06.35 %
+Bash                       22 hrs 48 mins  >------------------------   03.03 %
+Other                      22 hrs 33 mins  >------------------------   02.99 %
+JSON                       20 hrs 2 mins   >------------------------   02.66 %
+Go                         11 hrs 30 mins  -------------------------   01.53 %
+YAML                       8 hrs 10 mins   -------------------------   01.08 %
+Markdown                   4 hrs 1 min     -------------------------   00.53 %
+SCSS                       3 hrs 56 mins   -------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
