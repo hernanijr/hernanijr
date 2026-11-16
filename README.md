@@ -52,7 +52,7 @@ I developed and maintain the website and its technical delivery workflow:
 
 - Astro, TypeScript, and Tailwind CSS.
 - A content workflow designed to let organizers update community information without editing application code.
-- Build validation and automated publishing through GitHub Actions and Cloudflare Workers.
+- Build validation with GitHub Actions and static deployment on Cloudflare Workers.
 - Responsive pages, localized content, and technical SEO.
 
 The community organizers are responsible for the meetups and their content; my contribution is the website and its technical infrastructure.
