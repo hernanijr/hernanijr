@@ -42,10 +42,6 @@ I developed and maintain the website and its technical delivery workflow, includ
 
 The community organizers are responsible for the meetups and their content; my contribution is the website and its technical infrastructure.
 
-## Education
-
-Computer Science — PUC Minas
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hernanivieirajr)
