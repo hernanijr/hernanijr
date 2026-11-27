@@ -1,8 +1,5 @@
-<h1 align="center">Hernani Junior</h1>
-
 <p align="center">
-  <strong>Software Engineer · Backend, APIs & Integrations</strong><br />
-  Belo Horizonte, Brazil
+  <img src="assets/banner.png" width="100%" alt="Hernani Junior. Software engineer focused on backend, APIs, and integrations, in backend since 2018, based in Belo Horizonte, Brazil." />
 </p>
 
 <p align="center">
@@ -13,6 +10,10 @@
   <a href="https://www.linkedin.com/in/hernanivieirajr/">LinkedIn</a>
   ·
   <a href="mailto:contact@hernani.dev">Email</a>
+</p>
+
+<p align="center">
+  <code>Node.js</code> · <code>TypeScript</code> · <code>NestJS</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>BullMQ</code> · <code>AWS</code> · <code>Docker</code>
 </p>
 
 ---
